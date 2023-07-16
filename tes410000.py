@@ -30,10 +30,6 @@ def send_data(hostname, port):
         # Close the connection
         conn.close()
 
-# Example usage
-hostname = "127.0.0.1"  # Replace with the server's IP address or hostname
-port = 1234  # Replace with the server's port number
-
 send_data("amt.rs", 31670)
 
 #nc amt.rs 31670
