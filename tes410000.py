@@ -1,3 +1,8 @@
+### https://github.com/f0rk3b0mb/amatuerCTF_Censorship
+### Code created by f0rk3b0mb
+### for amatuerCTF 2023
+### 16 july 2023
+
 from pwn import *
 import string
 
